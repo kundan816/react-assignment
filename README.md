@@ -18,4 +18,17 @@ Mood Tracker is a React-based web application that allows users to track their d
 - **Toast Notifications**: Receive visual feedback for actions like adding or deleting moods.
 
 
+## Installation
 
+1. Clone the repository:
+
+git clone https://github.com/yourusername/mood-tracker.git
+cd mood-tracker
+
+2. Install dependencies:
+
+npm install
+
+3 . Start the development server:
+
+npm run dev
